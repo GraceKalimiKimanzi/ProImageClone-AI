@@ -1,0 +1,7 @@
+{
+  "name": "ProImageClone AI",
+  "description": "Create professional AI-generated headshots and facecam-style photos of yourself with high-end lighting and professional attire.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
